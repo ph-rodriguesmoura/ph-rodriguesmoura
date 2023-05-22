@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Moura</h1>
 <h3 align="center">I'm a Mobile Development Student</h3>
-<img align="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 - 🔭 I currently work as a HelpDesk at **MáximaTech**
 
@@ -21,6 +20,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ph-rodriguesmoura&show_icons=true&locale=en&layout=compact" alt="ph-rodriguesmoura" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ph-rodriguesmoura&show_icons=true&theme=dark&locale=en&layout=compact" alt="ph-rodriguesmoura" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ph-rodriguesmoura&show_icons=true&locale=en" alt="ph-rodriguesmoura" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ph-rodriguesmoura&show_icons=true&theme=dark&locale=en" alt="ph-rodriguesmoura" /></p>
